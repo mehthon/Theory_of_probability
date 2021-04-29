@@ -1,2 +1,2 @@
 # Theory_of_probability
-Program that calculate complicated stuff in probability field.
+Program that calculate complicated stuffs in probability field.
